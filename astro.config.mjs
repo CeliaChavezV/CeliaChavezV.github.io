@@ -6,3 +6,7 @@ export default defineConfig({
   integrations: [tailwind()],
   site: 'https://celiachavezv.github.io',
 });
+
+build: {
+  assets: 'assets'
+}
