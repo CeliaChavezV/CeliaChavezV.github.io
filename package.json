@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build:gh-page": "astro check && astro build --base=/CeliaChavezV/",
+    "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
@@ -24,3 +24,4 @@
     "prettier-plugin-astro": "^0.14.0"
   }
 }
+
