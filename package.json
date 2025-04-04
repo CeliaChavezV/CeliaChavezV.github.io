@@ -2,6 +2,7 @@
   "name": "minimalist-portfolio-json",
   "type": "module",
   "version": "0.0.1",
+  "packageManager": "pnpm@8.15.3",  // <-- ¡Agrega esta línea aquí!
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -24,4 +25,3 @@
     "prettier-plugin-astro": "^0.14.0"
   }
 }
-
