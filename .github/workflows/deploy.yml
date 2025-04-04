@@ -7,15 +7,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      
+      - uses: pnpm/action-setup@v4  # ¡Agrega la versión aquí!
         with:
-          node-version: 20
-      - run: npm install
-      - run: npm run build
+          version: 8
+      
+      - uses: withastro/action@v3
+        with:
+          project: ./
+          package-manager: pnpm  # Opcional (ya se usa por defecto)
+      
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           enable_jekyll: false
-          # Opcional: fuerza el despliegue en la rama `gh-pages`
-          publish_branch: gh-pages
