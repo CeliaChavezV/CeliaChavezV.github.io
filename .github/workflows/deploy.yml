@@ -11,7 +11,12 @@ jobs:
       - uses: pnpm/action-setup@v4  # ¡Agrega la versión aquí!
         with:
           version: 8
-      
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm  # Habilita caching para pnpm
+
       - uses: withastro/action@v3
         with:
           project: ./
