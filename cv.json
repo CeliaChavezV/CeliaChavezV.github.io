@@ -1,35 +1,30 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "name": "Celia Chavez Virgen",
+    "label": "Communications and Electronics Engineering Student",
+    "image": "/foto2.jpg",
+    "email": "c.chavezvirgen@gmail.com",
+    "phone": "+52 557 837 9656",
+    "url": "https://celiachavezv.github.io/",
+    "summary": "Communications Engineer Student passionate about satellite systems and RF technology. Seeking opportunities to grow in the aerospace and telecom industries.",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "",
+      "city": "Mexico City",
+      "countryCode": "MX",
+      "region": "Mexico"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "celiachavezv",
+        "url": "https://www.linkedin.com/in/celiachavezv/"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "CeliaChavezV",
+        "url": "https://github.com/CeliaChavezV"
       }
     ]
   },
