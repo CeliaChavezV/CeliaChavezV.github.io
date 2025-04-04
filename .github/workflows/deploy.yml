@@ -7,21 +7,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
       - uses: pnpm/action-setup@v4  # ¡Agrega la versión aquí!
-        with:
-          version: 8
-
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: pnpm  # Habilita caching para pnpm
-
-      - uses: withastro/action@v3
-        with:
-          project: ./
-          package-manager: pnpm  # Opcional (ya se usa por defecto)
-      
+      - run: pnpm install
+      - run: pnpm run build
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
