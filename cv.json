@@ -187,9 +187,7 @@
       ],
       "achievements": [
         "Improved signal integrity in wind power converters by 30% through EMI optimization.",
-        "Achieved 40% size reduction in multiband antennas without performance loss.",
-        "Enhanced antenna gain by 2.1 dB using metamaterial SRR integration.",
-        "Reduced PCB radiated emissions by 15dB through impedance surface design."
+        "Achieved 40% size reduction in multiband antennas without performance loss."
       ],
       "skills": [
         "EMI/EMC Analysis",
