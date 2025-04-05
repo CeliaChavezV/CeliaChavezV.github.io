@@ -147,7 +147,7 @@
     {
       "name": "Extracurricular foreign language courses in Zacatenco",
       "position": "English Teacher",
-      "location_type": "On-site",
+      "location_type": "Remote",
       "location": "Mexico City, Mexico",
       "url": "https://www.esimez.ipn.mx/servicios/celex.html",
       "startDate": "2022-02-01",
@@ -446,7 +446,7 @@
     {
       "name": "Undergraduate Thesis: Emergency Ground Station Network Design and Planning (Ongoing)",
       "isActive": true,
-      "description": "Design and implementation of an emergency ground station network under the supervision of Dr. Mario Alberto Mendoza Bárcenas using custom-built antennas, radio transceivers, and power measurement tools to ensure reliable communication in disaster scenarios",
+      "description": "Design and implementation of an emergency ground station network under the supervision of Dr. Mario Alberto Mendoza Bárcenas using custom-built antennas, radio transceivers, and power measurement tools to ensure reliable communication in disaster scenarios.",
       "highlights": [
         "IPN-CDA's (IPN Aerospace Development Center) first undergraduate-led emergency comms initiative.",
         "Collaborating with amateur radio operators to test and optimize network coverage, improving signal reception and transmission."
