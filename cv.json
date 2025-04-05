@@ -2,7 +2,7 @@
   "basics": {
     "name": "Celia Chavez Virgen",
     "label": "Communications and Electronics Engineering Student",
-    "image": "/foto2.jpg",
+    "image": "/foto3.jpg",
     "email": "c.chavezvirgen@gmail.com",
     "phone": "+52 557 837 9656",
     "url": "https://celiachavezv.github.io/",
@@ -30,330 +30,265 @@
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
-      "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
-      ],
-      "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
-      ]
-    },
-    {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
+      "name": "Agencia Espacial Mexicana",
+      "position": "Geospatial Analyst - Social Service",
       "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "location": "Mexico City, Mexico",
+      "url": "https://www.gob.mx/aem",
+      "startDate": "2024-09-17",
+      "endDate": "2025-03-18",
+      "summary": "Led geospatial analysis for Mexico's first broadband satellite feasibility study, identifying 35,380 disconnected rural localities (1.66M people) to bridge the digital divide.",
       "highlights": [
-        "Completed several client projects successfully"
+      "Co-authored a Mexico's comprehensive satellite broadband feasibility study.",
+      "Revealed $216B MXN cost advantage of satellite solutions over terrestrial deployment.",
+      "Developed innovative geospatial models adopted by national policymakers."
+      ],
+      "responsibilities": [
+      "Conducted nationwide geospatial analysis of telecom infrastructure gaps using QGIS and Python.",
+      "Designed georeferenced system models to visualize broadband coverage limitations in rural areas.",
+      "Automated data processing pipelines for telecom infrastructure analysis using Python (GeoPandas, Pandas).",
+      "Collaborated with government agencies to validate findings and align with national connectivity goals.",
+      "Applied advanced QGIS geoprocessing (buffer zones, route networks) to model 20km coverage areas from fiber nodes."
+      ],
+      "achievements": [
+      "Identified 35,380 underserved communities (1.66M people) for satellite connectivity prioritization.",
+      "Co-authored landmark national diagnostic report cited by Ministry of Communications (SICT).",
+      "Developed cost-comparison models that influenced Mexico's satellite broadband strategy.",
+      "Created replicable geospatial analysis framework for future infrastructure projects."
       ],
       "skills": [
-        "HTML",
-        "CSS"
+      "Geospatial Analysis",
+      "QGIS (Buffer Zones, Route Networks)",
+      "Python (GeoPandas, Pandas)",
+      "Telecom Infrastructure Mapping",
+      "Data Visualization",
+      "Feasibility Studies",
+      "Cross-agency Collaboration",
+      "Technical Report Writing"
+      ]
+    },
+    {
+      "name": "Samara State Aerospace University",
+      "position": "atellite Mission Analysis & Software Development Research Intern",
+      "location_type": "On-site",
+      "location": "Samara, Russia",
+      "url": "https://ssau.ru/english",
+      "startDate": "2022-08-01",
+      "endDate": "2023-09-01",
+      "summary": "Spearheaded mission design for БРАТЬЯ, a dual-nanosatellite (3U CubeSat) formation in LEO (500 km) to study ionospheric disturbances, optimizing orbital parameters (ΔV = -2.858 m/s, Hohmann transfer) for synchronized data collection.",
+      "highlights": [
+        "Developed innovative low-cost ground station solution (60% cost reduction vs traditional systems).",
+        "Achieved optimal orbital synchronization (ΔV = -2.858 m/s) for scientific data collection."
+      ],
+      "responsibilities": [
+        "Designed orbital mechanics for 3U CubeSat formation flying in LEO (500km altitude).",
+        "Programmed flight software in C/C++ for attitude determination and control systems (ADCS).",
+        "Engineered UHF/VHF communication protocols for reliable ground station telemetry.",
+        "Prototyped and tested X-Quad antenna system (432 MHz) for signal acquisition."
+      ],
+      "achievements": [
+        "Optimized Hohmann transfer parameters achieving 27+ minutes/day ground contact per satellite.",
+        "Recognized with 1st Place at PIFI Forum 2024 for research excellence.",
+        "Awarded 1st Place at PIFI Forum 2024 (Programa Institucional de Formación de Investigadores) and accepted at CONACES 2024 (Congreso Nacional de Actividades Espaciales de la Agencia Espacial Mexicana)."
+      ],
+      "skills": [
+      "Space Mission Design",
+      "Orbital Mechanics (Hohmann Transfers)",
+      "C/C++ Embedded Programming", 
+      "ADCS Development",
+      "UHF/VHF Communication Systems",
+      "Antenna Design (X-Quad)"
+      ]
+    },
+    {
+      "name": "Cloud Technologies Center",
+      "position": "Electronics Engineer Intern",
+      "location_type": "On-site",
+      "location": "Barranquilla, Colombia",
+      "url": "https://cloudtechnologys.co/?page_id=122",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-01",
+      "summary": "Designed and deployed an IoT energy monitoring system using ESP32 microcontrollers and Arduino Cloud, enabling real-time tracking of air conditioner energy consumption for institutional cost optimization.",
+      "highlights": [
+        "Developed custom 3D-printed enclosures and PCBs to enhance system durability and ensure reliable sensor integration in high-usage environments.",
+        "Applied machine learning (K-Means Clustering) to analyze energy datasets, identifying peak usage periods and inefficiencies to reduce operational costs by up to 20%.",
+        "Automated data collection and visualization, creating dashboards for actionable insights, improving decision-making for energy-saving initiatives.",
+        "Prototyped and tested hardware-software integration, troubleshooting sensor accuracy and connectivity issues for seamless real-time monitoring."
+      ],
+      "skills": [
+        "Arduino Cloud",
+        "3D Printing",
+        "PCB Design",
+        "K-Means Clustering"
+      ]
+    },
+    {
+      "name": "Fundación Universitaria Los Libertadores",
+      "position": "Renewable Energy Systems Research Intern",
+      "location_type": "On-site",
+      "location": "Bogota, Colombia",
+      "url": "https://www.ulibertadores.edu.co/6-estudiantes-mexicanos-visitan-los-libertadores/#:~:text=La%20Fundaci%C3%B3n%20Universitaria%20Los%20Libertadores,presentar%C3%A1n%20en%20sus%20respectivas%20universidades.",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-01",
+      "summary": "Researched and developed innovative solar energy systems, improving conversion efficiency through MPPT algorithms and designed wireless charging for electric vehicles.",
+      "highlights": [
+        "Enhanced solar energy harvesting efficiency through advanced MPPT implementation.",
+        "Selected to present research at International Congress of XXVII Summer of Scientific Research.",
+        "Developed functional prototype for wireless EV charging using solar integration."
+      ],
+      "skills": [
+        "MPPT Algorithm Development",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Extracurricular foreign language courses in Zacatenco",
+      "position": "English Teacher",
+      "location_type": "On-site",
+      "location": "Mexico City, Mexico",
+      "url": "https://www.esimez.ipn.mx/servicios/celex.html",
+      "startDate": "2022-02-01",
+      "endDate": "2022-05-01",
+      "summary": "Designed and delivered English language instruction at university level, implementing communicative teaching methodologies to enhance student proficiency.",
+      "highlights": [
+        "Implemented innovative assessment techniques to track language acquisition.",
+        "Adapted instruction for diverse learning styles in classroom settings.",
+        "Planned and executed lesson plans aligned with CEFR standards."
+      ],
+      "skills": [
+        "CEFR Assessment",
+        "Classroom Management"
       ]
     }
   ],
-  "volunteer": [
+  "leadership": [
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
+      "organization": "Oxford International Leadership Program Ambassador",
+      "position": "Ambassador",
+      "url": "https://www.ipn.mx/dri/",
+      "startDate": "2023-01-01",
+      "endDate": "2023-02-01",
+      "summary": "Improved leadership and soft skills in an international context, demonstrated global project management capabilities.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Selected as part of the top 5% in the IPN Leaders Training Program.",
+        "Achieved C1 English proficiency certified by Oxford Certificate."
       ]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
+      "institution": "Instituto Politécnico Nacional",
+      "url": "https://www.ipn.mx/",
+      "area": "Communications and Electronics Engineering",
       "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
       "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
+      "endDate": "2025-09-01",
+      "score": "",
       "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
+        "Electromagnetic Theory",
+        "Communication Systems",
+        "Computer Networks",
+        "Microwaves and Radiofrequency",
+        "Digital Signal Processing",
+        "Optical Telecommunications"
       ]
     },
     {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
+      "institution": "Universidad Politecnica de Madrid",
+      "url": "https://www.upm.es/",
+      "area": "Telecommunications Systems Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2024-01-01",
+      "endDate": "2024-07-01",
+      "score": "",
       "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
+        "Exchange Program",
+        "Communications Systems",
+        "GNSS",
+        "Electronics Communications"
+      ]
+    },
+    {
+      "institution": "Tecnológico de Monterrey - ITESM CEM",
+      "url": "https://tec.mx/es/estado-de-mexico",
+      "area": "High School Diploma",
+      "studyType": "High School Diploma",
+      "startDate": "2017-05-01",
+      "endDate": "2020-05-01",
+      "score": "",
+      "courses": [
       ]
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "Amateur Radio Operator Training",
+      "date": "2023-09-01",
+      "issuer": "FMRE A.C. – Mexican Federation of Radio Experimenters A.C.",
+      "url": "https://fmre.mx/"
     }
   ],
-  "skills": [
-    {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    }
-  ],
+
+  
+
   "languages": [
     {
-      "language": "English",
+      "language": "Spanish",
       "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "French",
       "fluency": "Intermediate"
-    }
-  ],
-  "interests": [
+    },
     {
-      "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
-    }
-  ],
-  "references": [
+      "language": "Russian",
+      "fluency": "Basic"
+    },
     {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "language": "Chinese",
+      "fluency": "Basic"
     }
   ],
+
+
+
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
+      "name": "Emergency Ground Station Network Design and Planning",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "(Ongoing) Design and implementation of an emergency ground station network under the supervision of Dr. Mario Alberto Mendoza Bárcenas using custom-built antennas, radio transceivers, and power measurement tools to ensure reliable communication in disaster scenarios",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
+        "Collaborating with amateur radio operators to test and optimize network coverage, improving signal reception and transmission."
+      ]
     },
     {
-      "name": "Task Manager",
+      "name": "Olkarion: Nanosatellite Devoted to the Study of the Radio Navigation Field and its Impact in the Mexican Space Sector",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "Developed a CubeSat nanosatellite prototype, to study Earth-Moon cislunar region dynamics, focusing on GNSS communication quality and radio-navigation anomalies.",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+        "Accepted for presentation at the International Astronautical Congress 2024."
+      ]
     },
     {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "name": "(Nanosatellite Formation Flying for Ionospheric Research",
+      "isActive": true,
+      "description": "Designed a coordinated nanosatellite formation during my internship at Samara University to boost ionospheric data collection, improving  spatial resolution and adaptive sensing capabilities and analysis for ionospheric dynamics under the supervision of Dr. D.P. Avariaskin.",
       "highlights": [
-        "Product management and shopping cart functionality",
+        "Accepted for presentation at the CONACES 2024 and Winner of the 1st place in Poster Category at PIFI 2024."
+      ]
+    },
+    {
+      "name": "Proposal for Improving Wireless Power Transmission on Roads for Electric Vehicles in Motion Using Photovoltaic Energy",
+      "isActive": true,
+      "description": "Designed a wireless power transmission system for electric vehicles (EVs) in motion, integrating photovoltaic (PV) energy, MPPT algorithms, and Pyhton-based control systems and machine learning algorithms to predict demand patterns, optimize energy harvesting, storage, and real time monitoring, under the supervision of Mr. Luis Alejandro Caycedo Villalobos.",
+      "highlights": [
+        "Accepted for presentation at the International Congress of the XXVII Summer of Scientific Research Programa Delfin.",
         "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
+      ]
     }
   ]
 }
