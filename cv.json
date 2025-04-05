@@ -84,7 +84,6 @@
       ],
       "achievements": [
         "Optimized Hohmann transfer parameters achieving 27+ minutes/day ground contact per satellite.",
-        "Recognized with 1st Place at PIFI Forum 2024 for research excellence.",
         "Awarded 1st Place at PIFI Forum 2024 (Programa Institucional de Formación de Investigadores) and accepted at CONACES 2024 (Congreso Nacional de Actividades Espaciales de la Agencia Espacial Mexicana)."
       ],
       "skills": [
@@ -185,7 +184,7 @@
   ],
   "education": [
     {
-      "institution": "Instituto Politécnico Nacional",
+      "institution": "🇲🇽 Instituto Politécnico Nacional",
       "url": "https://www.ipn.mx/",
       "area": "Communications and Electronics Engineering",
       "studyType": "Bachelor",
@@ -202,7 +201,7 @@
       ]
     },
     {
-      "institution": "Universidad Politecnica de Madrid",
+      "institution": "🇪🇸 Universidad Politécnica de Madrid",
       "url": "https://www.upm.es/",
       "area": "Telecommunications Systems Engineering",
       "studyType": "Bachelor",
@@ -217,7 +216,7 @@
       ]
     },
     {
-      "institution": "Tecnológico de Monterrey - ITESM CEM",
+      "institution": "🇲🇽 Tecnológico de Monterrey - ITESM CEM",
       "url": "https://tec.mx/es/estado-de-mexico",
       "area": "High School Diploma",
       "studyType": "High School Diploma",
