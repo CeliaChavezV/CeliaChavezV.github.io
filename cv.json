@@ -2,7 +2,7 @@
   "basics": {
     "name": "Celia Chavez Virgen",
     "label": "Communications and Electronics Engineering Student",
-    "image": "/foto3.jpg",
+    "image": "/512-512-foto.jpg",
     "email": "c.chavezvirgen@gmail.com",
     "phone": "+52 557 837 9656",
     "url": "https://celiachavezv.github.io/",
@@ -37,24 +37,20 @@
       "url": "https://www.gob.mx/aem",
       "startDate": "2024-09-17",
       "endDate": "2025-03-18",
-      "summary": "Led geospatial analysis for Mexico's first broadband satellite feasibility study, identifying 35,380 disconnected rural localities (1.66M people) to bridge the digital divide.",
+      "summary": "Processed and analyzed national datasets to identify 35,380 disconnected localities (1.66M inhabitants) using QGIS and Python (GeoPandas, Pandas, Matplotlib).",
       "highlights": [
-      "Co-authored a Mexico's comprehensive satellite broadband feasibility study.",
-      "Revealed $216B MXN cost advantage of satellite solutions over terrestrial deployment.",
-      "Developed innovative geospatial models adopted by national policymakers."
+      "Applied QGIS geoprocessing tools (buffer zones, route networks) to model theoretical coverage areas (20 km radius from fiber-optic nodes).",
+      "Evaluated Mexico’s digital divide using datasets from INEGI, IFT, and CFE TEIT (2019–2024), including: Fiber-optic infrastructure coverage, mobile network penetration (2G to 5G) and socioeconomic indicators (education, GDP impact)."
       ],
       "responsibilities": [
-      "Conducted nationwide geospatial analysis of telecom infrastructure gaps using QGIS and Python.",
-      "Designed georeferenced system models to visualize broadband coverage limitations in rural areas.",
-      "Automated data processing pipelines for telecom infrastructure analysis using Python (GeoPandas, Pandas).",
-      "Collaborated with government agencies to validate findings and align with national connectivity goals.",
-      "Applied advanced QGIS geoprocessing (buffer zones, route networks) to model 20km coverage areas from fiber nodes."
+      "Automated data cleaning and visualization workflows in Python to analyze: Localities without connectivity (prioritizing regions like Chiapas/Oaxaca) and cost-benefit scenarios for satellite vs. terrestrial broadband ($216B MXN estimated for nationwide fiber-optic deployment).",
+      "Collaborated with cross-functional teams (AEM, IFT, CFE TEIT) to validate findings and align with Mexico’s Constitutional Article 6 (right to broadband access).",
+      "Contributed to policy recommendations for satellite-based solutions, referencing successful models like Smart Villages (awarded at WSIS 2023)."
       ],
       "achievements": [
-      "Identified 35,380 underserved communities (1.66M people) for satellite connectivity prioritization.",
-      "Co-authored landmark national diagnostic report cited by Ministry of Communications (SICT).",
-      "Developed cost-comparison models that influenced Mexico's satellite broadband strategy.",
-      "Created replicable geospatial analysis framework for future infrastructure projects."
+      "Co-authored a national diagnostic report on broadband feasibility, cited by stakeholders like the Ministry of Communications and Transportation (SICT).",
+      "Developed georeferenced system models to map broadband coverage gaps, focusing on rural areas with limited 3G/4G/5G infrastructure.",
+      "Created connectivity heatmaps (coverage vs. non-coverage zones) to prioritize satellite deployment targets."
       ],
       "skills": [
       "Geospatial Analysis",
@@ -69,7 +65,7 @@
     },
     {
       "name": "Samara State Aerospace University",
-      "position": "atellite Mission Analysis & Software Development Research Intern",
+      "position": "Satellite Mission Analysis & Software Development Research Intern",
       "location_type": "On-site",
       "location": "Samara, Russia",
       "url": "https://ssau.ru/english",
@@ -110,10 +106,14 @@
       "endDate": "2022-08-01",
       "summary": "Designed and deployed an IoT energy monitoring system using ESP32 microcontrollers and Arduino Cloud, enabling real-time tracking of air conditioner energy consumption for institutional cost optimization.",
       "highlights": [
-        "Developed custom 3D-printed enclosures and PCBs to enhance system durability and ensure reliable sensor integration in high-usage environments.",
+        "Developed custom 3D-printed enclosures and PCBs to enhance system durability and ensure reliable sensor integration in high-usage environments."
+      ],
+      "responsibilities": [
         "Applied machine learning (K-Means Clustering) to analyze energy datasets, identifying peak usage periods and inefficiencies to reduce operational costs by up to 20%.",
-        "Automated data collection and visualization, creating dashboards for actionable insights, improving decision-making for energy-saving initiatives.",
         "Prototyped and tested hardware-software integration, troubleshooting sensor accuracy and connectivity issues for seamless real-time monitoring."
+      ],
+      "achievements": [
+        "Automated data collection and visualization, creating dashboards for actionable insights, improving decision-making for energy-saving initiatives."
       ],
       "skills": [
         "Arduino Cloud",
@@ -132,9 +132,13 @@
       "endDate": "2022-08-01",
       "summary": "Researched and developed innovative solar energy systems, improving conversion efficiency through MPPT algorithms and designed wireless charging for electric vehicles.",
       "highlights": [
-        "Enhanced solar energy harvesting efficiency through advanced MPPT implementation.",
-        "Selected to present research at International Congress of XXVII Summer of Scientific Research.",
+        "Enhanced solar energy harvesting efficiency through advanced MPPT implementation."
+      ],
+      "responsibilities": [
         "Developed functional prototype for wireless EV charging using solar integration."
+      ],
+      "achievements": [
+        "Selected to present research at International Congress of XXVII Summer of Scientific Research."
       ],
       "skills": [
         "MPPT Algorithm Development",
@@ -151,9 +155,13 @@
       "endDate": "2022-05-01",
       "summary": "Designed and delivered English language instruction at university level, implementing communicative teaching methodologies to enhance student proficiency.",
       "highlights": [
-        "Implemented innovative assessment techniques to track language acquisition.",
-        "Adapted instruction for diverse learning styles in classroom settings.",
+        "Adapted instruction for diverse learning styles in classroom settings."
+      ],
+      "responsibilities": [
         "Planned and executed lesson plans aligned with CEFR standards."
+      ],
+      "achievements": [
+        "Implemented innovative assessment techniques to track language acquisition."
       ],
       "skills": [
         "CEFR Assessment",
