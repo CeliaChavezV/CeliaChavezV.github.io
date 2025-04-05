@@ -263,7 +263,9 @@
       "description": "(Ongoing) Design and implementation of an emergency ground station network under the supervision of Dr. Mario Alberto Mendoza Bárcenas using custom-built antennas, radio transceivers, and power measurement tools to ensure reliable communication in disaster scenarios",
       "highlights": [
         "Collaborating with amateur radio operators to test and optimize network coverage, improving signal reception and transmission."
-      ]
+      ],
+      "url": [],      
+      "github": []
     },
     {
       "name": "Olkarion: Nanosatellite Devoted to the Study of the Radio Navigation Field and its Impact in the Mexican Space Sector",
@@ -271,7 +273,9 @@
       "description": "Developed a CubeSat nanosatellite prototype, to study Earth-Moon cislunar region dynamics, focusing on GNSS communication quality and radio-navigation anomalies.",
       "highlights": [
         "Accepted for presentation at the International Astronautical Congress 2024."
-      ]
+      ],
+      "url": [],      
+      "github": []
     },
     {
       "name": "(Nanosatellite Formation Flying for Ionospheric Research",
@@ -279,7 +283,9 @@
       "description": "Designed a coordinated nanosatellite formation during my internship at Samara University to boost ionospheric data collection, improving  spatial resolution and adaptive sensing capabilities and analysis for ionospheric dynamics under the supervision of Dr. D.P. Avariaskin.",
       "highlights": [
         "Accepted for presentation at the CONACES 2024 and Winner of the 1st place in Poster Category at PIFI 2024."
-      ]
+      ],
+      "url": [],      
+      "github": []
     },
     {
       "name": "Proposal for Improving Wireless Power Transmission on Roads for Electric Vehicles in Motion Using Photovoltaic Energy",
@@ -288,7 +294,9 @@
       "highlights": [
         "Accepted for presentation at the International Congress of the XXVII Summer of Scientific Research Programa Delfin.",
         "Secure payment integration"
-      ]
+      ],
+      "url": [],      
+      "github": []
     }
   ]
 }
