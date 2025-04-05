@@ -6,7 +6,7 @@
     "email": "c.chavezvirgen@gmail.com",
     "phone": "+52 557 837 9656",
     "url": "https://celiachavezv.github.io/",
-    "summary": "Communications Engineer Student passionate about satellite systems and RF technology. Seeking opportunities to grow in the aerospace and telecom industries.",
+    "summary": "Communications and Electronics Engineer Student passionate about satellite systems and RF technology. Seeking opportunities to grow in the aerospace and telecom industries.",
     "theme": "default",
     "location": {
       "address": "",
@@ -166,6 +166,38 @@
         "CEFR Assessment",
         "Classroom Management"
       ]
+    },
+    {
+      "name": "Electromagnetic Compatibility Laboratory of the IPN",
+      "position": "Undergraduate Laboratory Researcher",
+      "location_type": "On-site",
+      "location": "Mexico City, Mexico",
+      "url": "https://www.sepi.esimez.ipn.mx/servicios/",
+      "startDate": "2021-08-01",
+      "endDate": null,
+      "summary": "Conducted advanced research in electromagnetic compatibility (EMC), developing innovative solutions for EMI mitigation in renewable energy systems and compact antenna design.",
+      "highlights": [
+        "Optimized power electronics for sustainable wind energy systems.",
+        "Recipient of competitive BEIFI (Institutional Incentive Grant for Research Training) research funding from IPN."
+      ],
+      "responsibilities": [
+        "Investigated EMI reduction techniques for renewable energy infrastructure.",
+        "Designed and tested multiband planar antennas with small loop radiators",
+        "Developed metamaterial antennas using split-ring resonators (SRRs)"
+      ],
+      "achievements": [
+        "Improved signal integrity in wind power converters by 30% through EMI optimization.",
+        "Achieved 40% size reduction in multiband antennas without performance loss.",
+        "Enhanced antenna gain by 2.1 dB using metamaterial SRR integration.",
+        "Reduced PCB radiated emissions by 15dB through impedance surface design."
+      ],
+      "skills": [
+        "EMI/EMC Analysis",
+        "Antenna Design (ANSYS HFSS/CST)",
+        "Power Electronics",
+        "Anechoic Chamber Testing".
+        "PCB EMI Shielding"
+      ]
     }
   ],
   "leadership": [
@@ -233,6 +265,12 @@
       "date": "2023-09-01",
       "issuer": "FMRE A.C. – Mexican Federation of Radio Experimenters A.C.",
       "url": "https://fmre.mx/"
+    },
+    {
+      "name": "CCNA: Introduction to Networks",
+      "date": "2025-04-06",
+      "issuer": "Cisco Networking Academy",
+      "url": "https://www.netacad.com/es/courses/ccna-introduction-networks?courseLang=en-US"
     }
   ],
 
@@ -408,14 +446,15 @@
 
   "projects": [
     {
-      "name": "Emergency Ground Station Network Design and Planning",
+      "name": "Undergraduate Thesis: Emergency Ground Station Network Design and Planning (Ongoing)",
       "isActive": true,
-      "description": "(Ongoing) Design and implementation of an emergency ground station network under the supervision of Dr. Mario Alberto Mendoza Bárcenas using custom-built antennas, radio transceivers, and power measurement tools to ensure reliable communication in disaster scenarios",
+      "description": "Design and implementation of an emergency ground station network under the supervision of Dr. Mario Alberto Mendoza Bárcenas using custom-built antennas, radio transceivers, and power measurement tools to ensure reliable communication in disaster scenarios",
       "highlights": [
+        "IPN-CDA's (IPN Aerospace Development Center) first undergraduate-led emergency comms initiative.",
         "Collaborating with amateur radio operators to test and optimize network coverage, improving signal reception and transmission."
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "url": "",
+      "github": ""
     },
     {
       "name": "Olkarion: Nanosatellite Devoted to the Study of the Radio Navigation Field and its Impact in the Mexican Space Sector",
@@ -424,7 +463,7 @@
       "highlights": [
         "Accepted for presentation at the International Astronautical Congress 2024."
       ],
-      "url": "https://weatherapp.com"
+      "url": ""
     },
     {
       "name": "Nanosatellite Formation Flying for Ionospheric Research",
@@ -433,8 +472,8 @@
       "highlights": [
         "Accepted for presentation at the CONACES 2024 and Winner of the 1st place in Poster Category at PIFI 2024."
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "",
+      "github": ""
     },
     {
       "name": "Proposal for Improving Wireless Power Transmission on Roads for Electric Vehicles in Motion Using Photovoltaic Energy",
@@ -443,7 +482,7 @@
       "highlights": [
         "Accepted for presentation at the International Congress of the XXVII Summer of Scientific Research Programa Delfin."
       ],
-      "url": "https://ecommerce.com"
+      "url": ""
     }
   ]
 }
