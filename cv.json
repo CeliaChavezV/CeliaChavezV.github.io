@@ -56,16 +56,13 @@
       "Geospatial Analysis",
       "QGIS (Buffer Zones, Route Networks)",
       "Python (GeoPandas, Pandas)",
-      "Telecom Infrastructure Mapping",
       "Data Visualization",
-      "Feasibility Studies",
-      "Cross-agency Collaboration",
       "Technical Report Writing"
       ]
     },
     {
       "name": "Samara State Aerospace University",
-      "position": "Satellite Mission Analysis & Software Development Research Intern",
+      "position": "Satellite Mission Analysis Research Intern",
       "location_type": "On-site",
       "location": "Samara, Russia",
       "url": "https://ssau.ru/english",
@@ -73,26 +70,20 @@
       "endDate": "2023-09-01",
       "summary": "Spearheaded mission design for БРАТЬЯ, a dual-nanosatellite (3U CubeSat) formation in LEO (500 km) to study ionospheric disturbances, optimizing orbital parameters (ΔV = -2.858 m/s, Hohmann transfer) for synchronized data collection.",
       "highlights": [
-        "Developed innovative low-cost ground station solution (60% cost reduction vs traditional systems).",
-        "Achieved optimal orbital synchronization (ΔV = -2.858 m/s) for scientific data collection."
+        "Designed orbital mechanics for 3U CubeSat formation flying in LEO (500km altitude)."
       ],
       "responsibilities": [
-        "Designed orbital mechanics for 3U CubeSat formation flying in LEO (500km altitude).",
         "Programmed flight software in C/C++ for attitude determination and control systems (ADCS).",
-        "Engineered UHF/VHF communication protocols for reliable ground station telemetry.",
-        "Prototyped and tested X-Quad antenna system (432 MHz) for signal acquisition."
+        "Engineered UHF/VHF communication protocols for reliable ground station telemetry."
       ],
       "achievements": [
-        "Optimized Hohmann transfer parameters achieving 27+ minutes/day ground contact per satellite.",
-        "Awarded 1st Place at PIFI Forum 2024 (Programa Institucional de Formación de Investigadores) and accepted at CONACES 2024 (Congreso Nacional de Actividades Espaciales de la Agencia Espacial Mexicana)."
+        "Optimized Hohmann transfer parameters achieving 27+ minutes/day ground contact per satellite."
       ],
       "skills": [
       "Space Mission Design",
       "Orbital Mechanics (Hohmann Transfers)",
       "C/C++ Embedded Programming", 
-      "ADCS Development",
-      "UHF/VHF Communication Systems",
-      "Antenna Design (X-Quad)"
+      "ADCS Development"
       ]
     },
     {
@@ -169,7 +160,7 @@
     },
     {
       "name": "Electromagnetic Compatibility Laboratory of the IPN",
-      "position": "Undergraduate Laboratory Researcher",
+      "position": "BEIFI Undergraduate Laboratory Researcher",
       "location_type": "On-site",
       "location": "Mexico City, Mexico",
       "url": "https://www.sepi.esimez.ipn.mx/servicios/",
@@ -177,13 +168,12 @@
       "endDate": null,
       "summary": "Conducted advanced research in electromagnetic compatibility (EMC), developing innovative solutions for EMI mitigation in renewable energy systems and compact antenna design.",
       "highlights": [
-        "Optimized power electronics for sustainable wind energy systems.",
-        "Recipient of competitive BEIFI (Institutional Incentive Grant for Research Training) research funding from IPN."
+        "Recipient of competitive BEIFI (Institutional Incentive Grant for Research Training) research funding from IPN.",
+        "Optimized power electronics for sustainable wind energy systems."
       ],
       "responsibilities": [
         "Investigated EMI reduction techniques for renewable energy infrastructure.",
-        "Designed and tested multiband planar antennas with small loop radiators",
-        "Developed metamaterial antennas using split-ring resonators (SRRs)"
+        "Designed and tested multiband planar antennas with small loop radiators"
       ],
       "achievements": [
         "Improved signal integrity in wind power converters by 30% through EMI optimization.",
@@ -455,32 +445,45 @@
       "github": ""
     },
     {
-      "name": "Olkarion: Nanosatellite Devoted to the Study of the Radio Navigation Field and its Impact in the Mexican Space Sector",
+      "name": "Energy Monitor",
       "isActive": true,
-      "description": "Developed a CubeSat nanosatellite prototype, to study Earth-Moon cislunar region dynamics, focusing on GNSS communication quality and radio-navigation anomalies.",
+      "description": "Designed and deployed an IoT-based energy monitoring system for air conditioning units at Liceo de Cervantes, enabling real-time power consumption analysis and cost optimization.",
       "highlights": [
-        "Accepted for presentation at the International Astronautical Congress 2024."
+        "Established 24/7 monitoring with <1% data loss rate.",
+        "Implemented end-to-end IoT solution from hardware to cloud visualization."
       ],
-      "url": ""
+      "url": "https://www.instagram.com/reel/CvIlHFHg58j/?igsh=MWNkYnh0Y2VudXkwOQ=="
     },
     {
       "name": "Nanosatellite Formation Flying for Ionospheric Research",
       "isActive": true,
-      "description": "Designed a coordinated nanosatellite formation during my internship at Samara University to boost ionospheric data collection, improving  spatial resolution and adaptive sensing capabilities and analysis for ionospheric dynamics under the supervision of Dr. D.P. Avariaskin.",
+      "description": "Led full lifecycle (design → risk mitigation → validation) of a satellite mission combining orbital mechanics, embedded programming, and RF systems.",
       "highlights": [
-        "Accepted for presentation at the CONACES 2024 and Winner of the 1st place in Poster Category at PIFI 2024."
+        "Peer-recognized results (1st place PIFI Forum/CONACES '24) with cost-saving innovations."
       ],
-      "url": "",
+      "url": "https://drive.google.com/file/d/1Wye2uTPGwAn5LlasxPlBxO3UXMm_dkun/view?usp=sharing",
       "github": ""
     },
     {
-      "name": "Proposal for Improving Wireless Power Transmission on Roads for Electric Vehicles in Motion Using Photovoltaic Energy",
+      "name": "Bycatch Mitigation System",
       "isActive": true,
-      "description": "Designed a wireless power transmission system for electric vehicles (EVs) in motion, integrating photovoltaic (PV) energy, MPPT algorithms, and Pyhton-based control systems and machine learning algorithms to predict demand patterns, optimize energy harvesting, storage, and real time monitoring, under the supervision of Mr. Luis Alejandro Caycedo Villalobos.",
+      "description": "Developed dual-detection system combining: EM field sensing (0.1–10 mV/m sensitivity range) to detect marine organisms’ bioelectric fields and acoustic deterrents (3–30 kHz frequency range) mimicking cetacean echolocation signals.",
       "highlights": [
-        "Accepted for presentation at the International Congress of the XXVII Summer of Scientific Research Programa Delfin."
+        "Potential to protect >200 non-target species annually per deployed unit.",
+        "Featured at Invent For The Planet Competition '24 with Finalist Recognition."
       ],
-      "url": ""
+      "url": "https://drive.google.com/file/d/10Sdp3KY3AyfB1-LnZj1foQZOUp6Fl5XV/view?usp=drive_link"
+    },
+    {
+      "name": "Turbulence modeling: Comparative analysis of DES vs k-ω SST",
+      "isActive": true,
+      "description": "Conducted comparative study of DES vs. k-ω SST models in ANSYS Fluent, achieving 15% drag reduction for NACA 2412 airfoil.",
+      "highlights": [
+        "Developed adaptive meshing algorithms (y+<2) that cut computational time by 40%.",
+        "Validated results with wind tunnel testing.",
+        "Presented findings at SAE Aerodesign Mexico 2022 technical review."
+      ],
+      "url": "https://drive.google.com/file/d/1Gat4GDeKg5-ZEc5uYhLK_H2YGYzQJhRM/view?usp=sharing"
     }
   ]
 }
