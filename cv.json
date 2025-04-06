@@ -124,15 +124,8 @@
       "highlights": [
         "Enhanced solar energy harvesting efficiency through advanced MPPT implementation."
       ],
-      "responsibilities": [
-        "Developed functional prototype for wireless EV charging using solar integration."
-      ],
       "achievements": [
-        "Selected to present research at International Congress of XXVII Summer of Scientific Research."
-      ],
-      "skills": [
-        "MPPT Algorithm Development",
-        "Data Analysis"
+        "Developed functional prototype for wireless EV charging using solar integration."
       ]
     },
     {
@@ -465,14 +458,14 @@
       "github": ""
     },
     {
-      "name": "Bycatch Mitigation System",
+      "name": "Enterprise LAN Network Design",
       "isActive": true,
-      "description": "Developed dual-detection system combining: EM field sensing (0.1–10 mV/m sensitivity range) to detect marine organisms’ bioelectric fields and acoustic deterrents (3–30 kHz frequency range) mimicking cetacean echolocation signals.",
+      "description": "Designed and simulated a secure 155-user LAN infrastructure using Cisco Packet Tracer, featuring VLAN segmentation, OSPF routing, and firewall protection across 5 departments with specialized connectivity requirements.",
       "highlights": [
-        "Potential to protect >200 non-target species annually per deployed unit.",
-        "Featured at Invent For The Planet Competition '24 with Finalist Recognition."
+        "Implemented Extended Star topology with QoS policies reducing latency for critical applications by 40%.",
+        "Developed TIA-606-C compliant cable management system for 155+ endpoints."
       ],
-      "url": "https://drive.google.com/file/d/10Sdp3KY3AyfB1-LnZj1foQZOUp6Fl5XV/view?usp=drive_link"
+      "github": "https://github.com/CeliaChavezV/lan-network-design"
     },
     {
       "name": "Turbulence modeling: Comparative analysis of DES vs k-ω SST",
